@@ -14,7 +14,7 @@ body {
     width: 100px ; 
 } */
 
-/* untuk style elemet biasanya lebih seringnya pakai .class-name     */
+/* untuk style elemet biasanya lebih seringnya pakai .class-name tapi jangan lupa untuk di htmlnya ganti dari id ke class element */
 .menu{
     width: 80%; 
     background-color: burlywood;
