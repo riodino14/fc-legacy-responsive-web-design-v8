@@ -3,7 +3,7 @@ h1, h2, p {
 
     
 }
-body {
+body{
     /* background-color: burlywood; */
 
     /* test */
@@ -19,3 +19,8 @@ body {
     width: 80%; 
     background-color: burlywood;
 }
+
+/* 
+differences between id and class element!
+• id: Bersifat unik. Dalam satu halaman HTML, nilai id tidak boleh sama atau dipakai lebih dari satu kali. Sintaksnya menggunakan tanda pagar (#) di CSS, contoh: #header.
+• class: Bersifat tidak unik. Nama class yang sama bisa digunakan oleh banyak elemen berbeda di halaman yang sama. Satu elemen juga bisa memiliki lebih dari satu class sekaligus. Sintaksnya menggunakan tanda titik (.) di CSS, contoh: .tombol-biru. */
