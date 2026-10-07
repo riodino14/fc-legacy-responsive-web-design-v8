@@ -1,13 +1,21 @@
 h1, h2, p {
     text-align: center;
+
     
 }
 body {
-    background-color: burlywood;
+    /* background-color: burlywood; */
+
     /* test */
     
 }
 
-#menu {
+/* #menu {
     width: 100px ; 
+} */
+
+/* untuk style elemet biasanya lebih seringnya pakai .class-name     */
+.menu{
+    width: 80%; 
+    background-color: burlywood;
 }
